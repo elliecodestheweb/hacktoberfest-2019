@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Ellie](https://github.com/elliecodestheweb)
+- Place: San Diego, California
+- Bio: mostly self-taught front end developer, now an official student!
+- GitHub: [elliecodestheweb](https://github.com/elliecodestheweb)
